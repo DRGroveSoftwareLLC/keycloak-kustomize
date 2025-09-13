@@ -8,4 +8,4 @@ resources:
   - service-account.yaml
 images:
   - name: quay.io/keycloak/keycloak
-    newTag: 26.3.0
+    newTag: 26.3.4
